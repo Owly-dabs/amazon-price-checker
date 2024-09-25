@@ -1,0 +1,20 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Launch Package",
+            "type": "go",
+            "request": "launch",
+            "mode": "debug",
+            "program": "${fileDirname}/../main.go",
+            "args": [
+                "check",
+                "-l",
+                "https://www.amazon.sg/ECOVACS-DEEBOT-T30-PRO-Collection/dp/B0D3TG6KP2?pd_rd_w=GYMJY&content-id=amzn1.sym.a9fd9930-345c-45c3-b58e-f42f1be6ca99&pf_rd_p=a9fd9930-345c-45c3-b58e-f42f1be6ca99&pf_rd_r=7A91YNWF9BAME86VJ2W9&pd_rd_wg=rttpt&pd_rd_r=47ba0d7c-22c0-45cd-8962-b5ae4f51fea6&pd_rd_i=B0D3TG6KP2&ref_=pd_hp_d_btf_unk_B0D3TG6KP2"
+            ]
+        }
+    ]
+}
